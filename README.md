@@ -47,6 +47,7 @@ venv\Scripts\activate   # no Windows
 
 ```bash
 pip install -r requirements.txt
+pip install customtkinter # Necessário para rodar o projeto corretamente!
 ```
 
 4. Rode o app:
